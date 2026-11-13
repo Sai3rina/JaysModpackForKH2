@@ -424,7 +424,7 @@ assets:
 - name: obj/P_LM100.mdlx
   method: binarc
   source:
-  - name: p_ex
+  - name: p_lm
     type: model
     method: copy
     source:
